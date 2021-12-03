@@ -34,8 +34,3 @@ Genetic Algorithm Project Description
    showed a graph of the all-diversity pairs and best fitness vs. number of generations. These graphs gave me some insight on how the 
    algorithm worked and I hope they're at least interesting to see.
 
-***RUN INSTRUCTIONS***
-I included two files - one that has the matplotlib plots enabled, and one with the matplotlib plot functions commented out. I could not
-run the file with the plots in Idle, so if you're running it in that environment and just want to determine functionality, use 
-genetic_algorithm_no_plt. In order to work, the codes simply need to be run. Prompts will show up which should be straightforward to follow
-and results are printed as well as graphed.
